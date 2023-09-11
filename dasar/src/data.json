@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "name": "Sepatuku",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae est perferendis perspiciatis exercitationem veniam ipsa quia, consequatur fugiat odit assumenda.",
+    "price": 200000,
+    "image": "https://img.freepik.com/free-photo/fashion-shoes-sneakers_1203-7529.jpg?w=1060&t=st=1693366778~exp=1693367378~hmac=fc45ba232836ce76388bf465e9dde97f0870835cbbe3714eeeeed0db1c4d729e"
+  },
+  {
+    "id": "2",
+    "name": "Sepatu Bola",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae est perferendis perspiciatis exercitationem veniam ipsa quia",
+    "price": 500000,
+    "image": "https://img.freepik.com/free-photo/pair-trainers_144627-3799.jpg?w=826&t=st=1693371219~exp=1693371819~hmac=2fa3b3be2e0dedbbac5be0c04f430d3aeec330d55805fb9578ba0e0f5795565d"
+  },
+  {
+    "id": "3",
+    "name": "Sepatu Running",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae est perferendis perspiciatis exercitationem.",
+    "price": 150000,
+    "image": "https://img.freepik.com/premium-photo/black-fashion-sport-shoe-isolated-white-background_47469-1616.jpg?w=1060"
+  },
+  {
+    "id": "4",
+    "name": "Sepatuku",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae est perferendis perspiciatis exercitationem veniam ipsa quia, consequatur fugiat odit assumenda.",
+    "price": 300000,
+    "image": "https://img.freepik.com/premium-psd/pair-stylish-shoes-3d-rendering-isolated_1401-2682.jpg?w=1060"
+  }
+]
